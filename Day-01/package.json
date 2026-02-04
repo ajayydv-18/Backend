@@ -1,0 +1,15 @@
+{
+  "name": "day-01",
+  "version": "1.0.0",
+  "description": "// hm apne js ke code ko ab tak browser par run kra rhe the par ek tareeka hai jiske help se hum apne code ko outside browser bhi run kara skte hai-> nodes js . node js ek enviroment create krti hai pane sytem me jha js ka code easily run kar skta hai.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
